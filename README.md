@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/clintlosee/docker-react.svg?branch=master)](https://travis-ci.org/clintlosee/docker-react)
 
-## This is a Docker-React App to Deploy to AWS or GCP for testing only!
+## This is a Docker-React App to Deploy to AWS for testing only!
 
 ---
 
@@ -11,7 +11,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## Table of Contents
 
-- [This is a Docker-React App to Deploy to AWS or GCP for testing only!](#this-is-a-docker-react-app-to-deploy-to-aws-or-gcp-for-testing-only)
+- [This is a Docker-React App to Deploy to AWS for testing only!](#this-is-a-docker-react-app-to-deploy-to-aws-for-testing-only)
 - [Table of Contents](#table-of-contents)
 - [Updating to New Releases](#updating-to-new-releases)
 - [Sending Feedback](#sending-feedback)
